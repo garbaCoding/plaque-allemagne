@@ -421,7 +421,9 @@
   { "prefix": "Z", "city": "Zwickau", "land": "Saxe", "lat": 50.7108, "lon": 12.4731 },
   { "prefix": "ZE", "city": "Zeitz", "land": "Saxe-Anhalt", "lat": 51.0492, "lon": 12.1385 },
   { "prefix": "ZIG", "city": "Ziegenrück", "land": "Thuringe", "lat": 50.6089, "lon": 11.5927 },
-  { "prefix": "ZW", "city": "Zweibrücken", "land": "Rhénanie-Palatinat", "lat": 49.2485, "lon": 7.3698 }
+  { "prefix": "ZW", "city": "Zweibrücken", "land": "Rhénanie-Palatinat", "lat": 49.2485, "lon": 7.3698 },
+  { "prefix": "WAF", "city": "Warendorf", "land": "Rhénanie-du-Nord-Westphalie", "lat": 51.9517, "lon": 7.9874 }
+
 ]
 
 
