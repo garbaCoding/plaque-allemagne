@@ -8,10 +8,10 @@
         v-if="selectedCity"
         :cx="latLonToXY(selectedCity.lat, selectedCity.lon).x"
         :cy="latLonToXY(selectedCity.lat, selectedCity.lon).y"
-        r="12"
+        r="6"
         fill="red"
         stroke="white"
-        stroke-width="2"
+        stroke-width="1"
       />
     </svg>
 
